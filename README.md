@@ -11,6 +11,7 @@ To use this version of `staking-deposit-cli`, clone this repository:
 ```bash
 git clone https://github.com/Blockshard-io/staking-deposit-cli.git
 cd staking-deposit-cli
+git checkout hoodi
 ```
 
 ---
