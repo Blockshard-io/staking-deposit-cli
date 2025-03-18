@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Once the environment is set up, generate validator keys using:
 
 ```bash
-python3 deposit.py new-mnemonic --num_validators 1 --chain hoodi --eth1_withdrawal_address <YourWithdrawalAaddress>
+python3 staking_deposit/deposit.py new-mnemonic --num_validators 1 --chain hoodi --eth1_withdrawal_address <YourWithdrawalAaddress>
 ```
 
 Replace `1` with the number of validators you want to generate.
