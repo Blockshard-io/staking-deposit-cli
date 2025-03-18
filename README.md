@@ -1,5 +1,5 @@
 
-# **Generating Valid Hoodi Validator Keys Using**
+# **Generating Valid Hoodi Validator Keys**
 
 This repository provides a modified version of `staking-deposit-cli` that supports the **Hoodi testnet**. Follow the steps below to generate valid Ethereum validator keys for Hoodi.
 
